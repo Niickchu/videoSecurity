@@ -8,6 +8,6 @@ This is a real-time security system implemented on a microcontroller (BeagleBone
 
 **2\. Servo:**  The servo works along with the camera, where the servo will move to point the LED to where your face is. The servo will also shake its ‘head’ horizontally if you are not recognized, and nod its ‘head’ vertically if you are recognized.
 
-**3\. LED Matrix:** The RGB 8x8 LED matrix displayed multiple images for the user include: A smiley face, a frowney face, a loading icon, a checkmark, and the position/size of the users head as seen by the camera. It runs on a bare-metal programmable real-time unit (PRU) due to the very critical hard real-time nature of this device.
+**3\. LED Matrix:** The RGB 8x8 LED matrix displays multiple images for the user including: A smiley face, a frowney face, a loading icon, a checkmark, and the position/size of the users head as seen by the camera. It runs on a bare-metal programmable real-time unit (PRU) due to the very critical hard real-time nature of this device.
 
-**4\. Distance Sensor:**  The ultrasonic motion detector identifies an object approaching the system and turns the camera when the object is within 60cm of the sensor.
+**4\. Distance Sensor:**  The ultrasonic motion detector identifies an object approaching the system and turns the camera when the object is within 60cm of the sensor. This peripheral also runs on a PRU.
