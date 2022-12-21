@@ -4,10 +4,10 @@
 This is a real-time security system implemented on a microcontroller (BeagleBone Green). The system is able to perform video processing, facial detection and facial recognition in real time and, by means of two servo motors and an LED matrix, let the user know if it recognized the person in the frame or not.
 
 ## System Components ##
-**1\. USB Camera:** \ 
+**1\. USB Camera:** \
 The USB camera is used to capture images, where facial detection and facial recognition using openCV 4.6.0 is run on these images in real time.
 
-**2\. Servo:** \ 
+**2\. Servo:** \
 The servo works along with the camera, where the servo will move to point the LED to where your face is. The servo will also shake its ‘head’ horizontally if you are not recognized, and nod its ‘head’ vertically if you are recognized.
 
 **3\. LED Matrix:** \
