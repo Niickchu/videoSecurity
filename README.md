@@ -1,7 +1,7 @@
 # videoSecurity
 
 ## What is this? ##
-This is a real-time security system implemented on a microcontroller (BeagleBone Green). The system is able to perform video processing, facial detection and facial recognition in real time and, by means of two servo motors and an LED matrix, to let the user know if it recognized the person in the frame or not.
+This is a real-time security system implemented on a microcontroller (BeagleBone Green). The system is able to perform video processing, facial detection and facial recognition in real time and, by means of two servo motors and an LED matrix, let the user know if it recognized the person in the frame or not.
 
 ## System Components ##
 **1\. USB Camera:** The USB camera is used to capture images, where facial detection and facial recognition using openCV is run on these images in real time.
