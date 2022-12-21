@@ -12,7 +12,7 @@ This is a real-time security system implemented on a microcontroller (BeagleBone
 
 **4\. Distance Sensor:**  The ultrasonic motion detector identifies an object approaching the system and turns the camera when the object is within 60cm of the sensor. This peripheral also runs on a PRU.
 
-### Video Demos ###
+## Video Demos ##
 
 [Final Demo](https://www.youtube.com/shorts/5ZF8nbTvUDc)    
 [Old initial proof of concept](https://www.youtube.com/shorts/GQ6ElP9bKJY)
