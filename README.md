@@ -14,5 +14,5 @@ This is a real-time security system implemented on a microcontroller (BeagleBone
 
 ### Video Demos ###
 
-[Final Demo] (https://www.youtube.com/shorts/5ZF8nbTvUDc)
-[Old initial proof of concept] (https://www.youtube.com/shorts/GQ6ElP9bKJY)
+[Final Demo](https://www.youtube.com/shorts/5ZF8nbTvUDc)
+[Old initial proof of concept](https://www.youtube.com/shorts/GQ6ElP9bKJY)
