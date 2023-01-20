@@ -1,5 +1,10 @@
 # videoSecurity
 
+## Video Demos ##
+
+[Final Demo](https://www.youtube.com/shorts/5ZF8nbTvUDc)    
+[Old initial proof of concept](https://www.youtube.com/shorts/GQ6ElP9bKJY)
+
 ## What is this? ##
 This is a real-time security system implemented on a microcontroller (BeagleBone Green). A PC can be used to display terminal outputs from the BeagleBone, however the system is designed to be run natively on the microcontroller. The system is able to perform video processing, facial detection and facial recognition in real time and, by means of two servo motors and an LED matrix, let the user know if it recognized the person in the frame or not.
 
@@ -15,8 +20,3 @@ The RGB 8x8 LED matrix displays multiple images for the user including: A smiley
 
 **4\. Distance Sensor:**  \
 The ultrasonic motion detector identifies an object approaching the system and turns the camera when the object is within 60cm of the sensor. This peripheral also runs on a PRU.
-
-## Video Demos ##
-
-[Final Demo](https://www.youtube.com/shorts/5ZF8nbTvUDc)    
-[Old initial proof of concept](https://www.youtube.com/shorts/GQ6ElP9bKJY)
